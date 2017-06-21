@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "930EBF821A84AB4B00A67CCA"
-               BuildableName = "BLKFlexibleHeightBar Demo.app"
-               BlueprintName = "BLKFlexibleHeightBar Demo"
+               BlueprintIdentifier = "C221DFE91EFA4EA40044500F"
+               BuildableName = "BLKBar.framework"
+               BlueprintName = "BLKBar"
                ReferencedContainer = "container:BLKFlexibleHeightBar Demo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -28,13 +28,23 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "C221DFF11EFA4EA40044500F"
+               BuildableName = "BLKBarTests.xctest"
+               BlueprintName = "BLKBarTests"
+               ReferencedContainer = "container:BLKFlexibleHeightBar Demo.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "930EBF821A84AB4B00A67CCA"
-            BuildableName = "BLKFlexibleHeightBar Demo.app"
-            BlueprintName = "BLKFlexibleHeightBar Demo"
+            BlueprintIdentifier = "C221DFE91EFA4EA40044500F"
+            BuildableName = "BLKBar.framework"
+            BlueprintName = "BLKBar"
             ReferencedContainer = "container:BLKFlexibleHeightBar Demo.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -51,16 +61,15 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "930EBF821A84AB4B00A67CCA"
-            BuildableName = "BLKFlexibleHeightBar Demo.app"
-            BlueprintName = "BLKFlexibleHeightBar Demo"
+            BlueprintIdentifier = "C221DFE91EFA4EA40044500F"
+            BuildableName = "BLKBar.framework"
+            BlueprintName = "BLKBar"
             ReferencedContainer = "container:BLKFlexibleHeightBar Demo.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -70,16 +79,15 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "930EBF821A84AB4B00A67CCA"
-            BuildableName = "BLKFlexibleHeightBar Demo.app"
-            BlueprintName = "BLKFlexibleHeightBar Demo"
+            BlueprintIdentifier = "C221DFE91EFA4EA40044500F"
+            BuildableName = "BLKBar.framework"
+            BlueprintName = "BLKBar"
             ReferencedContainer = "container:BLKFlexibleHeightBar Demo.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
