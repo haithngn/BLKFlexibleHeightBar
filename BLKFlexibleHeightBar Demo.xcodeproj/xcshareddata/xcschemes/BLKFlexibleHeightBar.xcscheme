@@ -28,16 +28,6 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "930EBF9B1A84AB4B00A67CCA"
-               BuildableName = "BLKFlexibleHeightBar DemoTests.xctest"
-               BlueprintName = "BLKFlexibleHeightBar DemoTests"
-               ReferencedContainer = "container:BLKFlexibleHeightBar Demo.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
